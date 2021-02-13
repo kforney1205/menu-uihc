@@ -1,7 +1,7 @@
-Mega Dropdown
+Dropdown Demo 
 =========
 
-A responsive and easy to customise mega-dropdown component.
+This code is originally taken from Mega-Dropdown @ codyhouse. Not used for commercial purposes. 
 
 [Article on CodyHouse](http://codyhouse.co/gem/mega-dropdown/)
 

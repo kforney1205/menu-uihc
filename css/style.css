@@ -15,7 +15,7 @@ html {
 body {
   font-size: 1.6rem;
   font-family: sans-serif;
-  color: #111433;
+  color: #333333;
   background-color: #ffffff;
 }
 
@@ -60,7 +60,7 @@ Main Components
 -------------------------------- */
 header {
   height: 100px;
-  background: #ffffff;
+  background: #eeeeee;
 }
 
 .cd-dropdown-wrapper {
@@ -77,7 +77,7 @@ header {
   position: relative;
   padding: 0 36px 0 20px;
   line-height: 40px;
-  background-color: #111433;
+  background-color: #333333;
   color: #ffffff;
   border-radius: 3px;
 }
@@ -184,7 +184,7 @@ header {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #111433;
+  background-color: #333333;
   color: #ffffff;
   visibility: hidden;
   /* Force Hardware Acceleration */
@@ -209,7 +209,7 @@ header {
   position: relative;
   z-index: 1;
   color: #585a70;
-  background-color: #111433;
+  background-color: #333333;
   border-bottom: 1px solid #242643;
 }
 .cd-dropdown .cd-close {
@@ -286,7 +286,7 @@ header {
     -o-transform: translateX(0);
     transform: translateX(0);
     background-color: #ffffff;
-    color: #111433;
+    color: #333333;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     opacity: 0;
     -webkit-transform: translateY(30px);
@@ -413,7 +413,7 @@ header {
     overflow: visible;
   }
   .cd-dropdown-content a, .cd-dropdown-content ul a {
-    color: #111433;
+    color: #333333;
     height: 50px;
     line-height: 50px;
     font-size: 1.5rem;
@@ -465,7 +465,7 @@ header {
   position: relative;
 }
 .cd-dropdown-content .cd-dropdown-icons .cd-dropdown-item p {
-  color: #111433;
+  color: #333333;
   font-size: 1.3rem;
   /* hide description on small devices */
   display: none;
@@ -604,7 +604,7 @@ header {
   }
   .no-touch .cd-dropdown-content .cd-secondary-dropdown > .see-all a:hover, .no-touch .cd-dropdown-content .cd-dropdown-gallery > .see-all a:hover, .no-touch .cd-dropdown-content .cd-dropdown-icons > .see-all a:hover {
     color: #ffffff;
-    background-color: #111433;
+    background-color: #333333;
   }
   .cd-dropdown-content .cd-secondary-dropdown .cd-dropdown-item, .cd-dropdown-content .cd-secondary-dropdown a, .cd-dropdown-content .cd-dropdown-gallery .cd-dropdown-item, .cd-dropdown-content .cd-dropdown-gallery a, .cd-dropdown-content .cd-dropdown-icons .cd-dropdown-item, .cd-dropdown-content .cd-dropdown-icons a {
     border: none;
@@ -871,7 +871,7 @@ header {
 }
 .cd-search input[type="search"]:focus {
   background: #ffffff;
-  color: #111433;
+  color: #333333;
   outline: none;
 }
 .cd-search input[type="search"]:focus::-webkit-input-placeholder {

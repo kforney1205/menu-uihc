@@ -61,7 +61,7 @@ Main Components
 header {
   height: 100px;
   background: #eeeeee;
-  background-image: url(img/uihc-yellowlogo2.png);
+  background-image: url('img/uihc-yellowlogo2.png');
   background-position: top left;
   background-repeat: no-repeat;
 }

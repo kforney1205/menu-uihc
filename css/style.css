@@ -19,7 +19,7 @@ body {
   background-position: top left;
   background-repeat: no-repeat; */
   color: #333333;
-  background-color: #ffffff;
+  background-color: #ffcd00;
 }
 
 a {
@@ -62,7 +62,7 @@ Main Components
 
 -------------------------------- */
 header {
-  height: 500px;
+  height: 250px;
   background: #eeeeee;
 
 }
